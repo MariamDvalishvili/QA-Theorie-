@@ -13,9 +13,40 @@ Testergebnisse sameln, Analysieren.
 Schlagen sie verbeserungen vor.
 
 
-"Patches"  Code linen . Softwareaktualisierung
+"Patches"  Code linien . Softwareaktualisierung
 
 Waterfall SDLC Model Phaasen: 
 
-*Anforderungen erstellen-
+*Anforderungen erstellen- Dokumenentiert und Vollstendig verstanden -> Anforderungen durchführen ,Spätere Vehler minimieren.
+*Design- System/softwere design wird basierend, anforderungen erstellt.-> designrewius uberprufen
+*Implementieren/ Development - Code wird geschrioeben -> Unitesting
+*Integration und Test - Testing - Implemrntid modules werden Inegriert getestet -> Funktionale Testing systemtest
+*ereitstellung/ deployment- Die Softwere wird ausgelifert -> Akzeptanztest, Smoke Test
+*Wartung/Maintenance - Fehlerbehebung und Systemanpassungnach dem Deployment -> Regresionstest, Sicherstellung dass keine fehler einfuht
+
+Vorteile : Klar Struktur, Planbakeit.
+Nachteile: Später fehlerentdekung, geringe Flexibilität,Schwer zu aktualisieren. 
+
+ Agile
+
+*Auf verönderungen reagieren
+*Agiule ist für Startups -> Ändern und Anpassen
+*MVP- Minimalviable Product . Mindestensfunktionalität
+*Scrum, Schift right -> Kleine und große
+*keine ausweg
+       Methodik 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
