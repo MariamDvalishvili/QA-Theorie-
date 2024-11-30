@@ -15,7 +15,11 @@ Schlagen sie verbeserungen vor.
 
 "Patches"  Code linien . Softwareaktualisierung
 
+######
+
 Waterfall SDLC Model Phaasen: 
+Analyse -> Entfurf -> program -> Testing -> wartung
+
 
 *Anforderungen erstellen- Dokumenentiert und Vollstendig verstanden -> Anforderungen durchführen ,Spätere Vehler minimieren.
 *Design- System/softwere design wird basierend, anforderungen erstellt.-> designrewius uberprufen
@@ -27,17 +31,71 @@ Waterfall SDLC Model Phaasen:
 Vorteile : Klar Struktur, Planbakeit.
 Nachteile: Später fehlerentdekung, geringe Flexibilität,Schwer zu aktualisieren. 
 
- Agile
+########
+
+ Agile:
+
+Agile ermöglicht es, sich an Änderungen in Anforderungen oder Prioritäten anzupassen, selbst spät in der Entwicklung.
+epos -> geschichte -> entwiklung -> prufen -> einsetzen rezension
+
 
 *Auf verönderungen reagieren
 *Agiule ist für Startups -> Ändern und Anpassen
 *MVP- Minimalviable Product . Mindestensfunktionalität
 *Scrum, Schift right -> Kleine und große
 *keine ausweg
-       Methodik 
 
+Vorteile:
 
+*Kundenzentrierung:
+  Durch kontinuierliches Feedback
+*Schnellere Lieferung:
+*Verbesserte Zusammenarbeit:
+  klare Kommunikationswege. tägliche Stand-Ups.
+*Weniger Risiko:
+  Probleme frühzeitig erkannt und behoben werden.
+*Motivierte Teams:
+  Selbstorganisierte Teams, Kreativität.
+*Transparenz:
+  Alle Stakeholder sind regelmäßig informiert, was den Fortschritt und den aktuellen Stand betrifft.
 
+Nachteile:
+
+*Mangelnde Planungssicherheit:
+*Abhängigkeit von Engagement:
+   eine hohe Beteiligung und Disziplin von allen Beteiligten, einschließlich Kunden.
+*Skalierungsprobleme:
+   großen oder komplexen Projekten kann die Koordination zwischen mehreren Teams schwierig werden.
+
+*Erhöhter Kommunikationsaufwand:
+  Regelmäßige Meetings und intensive.
+
+*Erfahrung des Teams:
+  Unerfahrene Mitglieder können Schwierigkeiten haben.
+
+*Ressourcenintensiv:
+  Ständige Anpassungen und Änderungen können zusätzliche Kosten verursachen.
+
+*Unklare Rollenverteilung:
+  Bei unzureichender Organisation kann es zu Konflikten oder Unklarheiten über Verantwortlichkeiten kommen.
+
+###########
+
+Scrum SDLC:
+
+*hierarchy: 6-9 person (Interdisziplinierte Team) 
+*Große project in kleine Aufgaben zerlegt (1-4 woche)
+*daly Stand up: 15 min. bespr. (probleme , augaben aufteilung)
+*Feedback, Verbeserung
+
+#####
+Kanban und Lean SDLC
+
+*Visualisierung der Arbeit. (z. B. "To Do", "In Progress", "Done").
+  Trello,Jira,Asana.
+
+#####
+shift Left / RightMethologie:
 
 
 
