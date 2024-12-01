@@ -1,0 +1,19 @@
+Testplan ist ein dokumentiertes Konzept. Die Strategie, den Umfang, die Ressourcen und den Zeitplan für Testaktivitäten definiert. 
+Identifiziert potenzielle Risiken, und minimiert Risiken.
+
+    
+       Beispiel: 
+
+1.  Testziele 
+2.  Testumfang (Scope) 
+3.  Ausschlüsse - was wird nicht getestet.
+4.  Teststrategie/ Arten
+5.  Testumgebung
+6.  Ressourcen und Verantwortlichkeiten 
+7.  Zeitplan 
+8.  Testfälle 
+9.  Eingabekriterien (Entry Criteria) 
+10. Abnahmekriterien (Exit Criteria)
+11. Risiken und Annahmen
+12. Berichterstattung / Dokumentieren
+
