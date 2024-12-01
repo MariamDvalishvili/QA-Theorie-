@@ -95,9 +95,17 @@ Kanban und Lean SDLC
   Trello,Jira,Asana.
 
 #####
-shift Left / RightMethologie:
+shift Left / Right Methologie:
 
+Shift Left
+Qualitätssicherung wird frühzeitig in den Entwicklungsprozess integriert, um Fehler schnell und kostengünstig zu erkennen und zu beheben.
+Ziel: Prävention.
 
+Shift Right
+Qualitätssicherung erfolgt nach der Softwarefreigabe durch Monitoring, Nutzerfeedback und Tests in der Produktionsumgebung. 
+Ziel: Anpassung und Optimierung.
+
+Beide Ansätze ergänzen sich und fördern durchgehende Qualität.
 
 
 
