@@ -1,0 +1,123 @@
+CHECKLISTEN & TESTFÄLLE
+
+ ✓ Checkliste
+
+- Die Checkliste ist ein Testdokument auf hoher Ebene.  Die Checkliste sollte eine modularisierte Liste der erwarteten Überprüfungen enthalten.  Die Testliste sollte enthalten, was getestet werden muss, erwartete Ergebnisse und Ergebnisse der Überprüfung.  Die Checkliste kann aus End-to-End-Abläufen für bestimmte Funktionen zusammengestellt werden.
+
+
+ 
+ ✓ Testfall
+
+ – Eine Reihe von Schritten zur Überprüfung der korrekten Funktionalität einer Anwendung.  
+ Es kann Vorbedingungen, Testdaten, Testfall-ID, Testfallbeschreibung, Testschritte, erwartete Ergebnisse, Bestanden/Nicht bestanden und visuelle Beispiele enthalten.
+
+ 
+
+ Es ist hilfreich, mit der Funktionsüberprüfung zu beginnen, indem Sie zunächst eine Checkliste für Kernfunktionen oder -module erstellen und diese Checkliste dann auf Testfälle erweitern.
+
+ Testfälle können durch Testmatrizen verfolgt und verwaltet werden.
+
+ Beispiel: Test matrix
+
+
+
+
+VERWALTEN VON TESTDOKUMENTEN
+
+✓ Confluence oder anderes Teamdokumentationstool
+
+– Normalerweise hat die Qualitätssicherung ihren eigenen Bereich. Dort speichern die QA-Ingenieure Testpläne, Informationen für neue QA-Ingenieure zum Einstieg, Fehlervorlagen und Fehlerlebenszyklen, Diagramme zu Testabläufen und eine Liste der verwendeten Tools. Eines der beliebtesten Tools ist Confluence, aber es kann alles Mögliche sein, sogar ein gemeinsam genutztes QA-Google Drive.
+
+✓ Test Rail, Test Lodge oder anderes Testmanagementtool
+
+– Anstelle von Testmatrizen haben Unternehmen möglicherweise ein dediziertes Testmanagementtool. Dort können die QA-Ingenieure
+
+Testfälle hinzufügen, Testläufe erstellen und sie mit bestimmten Storys in Jira oder einem anderen Projektmanagementtool verknüpfen.
+
+ TestLodge: https://app.testlodge.com/
+
+✓ TestRail: https://www.gurock.com/testrail/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
