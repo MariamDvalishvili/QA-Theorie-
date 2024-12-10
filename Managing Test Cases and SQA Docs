@@ -3,7 +3,7 @@ CHECKLISTEN & TESTFÄLLE
  ✓ Checkliste
 
 - Die Checkliste ist ein Testdokument auf hoher Ebene.  Die Checkliste sollte eine modularisierte Liste der erwarteten Überprüfungen enthalten.  Die Testliste sollte enthalten, was getestet werden muss, erwartete Ergebnisse und Ergebnisse der Überprüfung.  Die Checkliste kann aus End-to-End-Abläufen für bestimmte Funktionen zusammengestellt werden.
-
+  was soll getestet werden, die erwartete ergebnisse, der Überprüfung  die Ergebnisse.
 
  
  ✓ Testfall
