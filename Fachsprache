@@ -14,14 +14,21 @@ Test Oracle: ist ein Referenzmechanismus, der die erwarteten Ergebnisse eines Te
 SDLC (Software Development Life Cycle):  Phasen des Entwicklungsprozesses einer Softwarer
 Agile ist eine flexible Methode, um Teams Projekte Schritt für Schritt umzusetzen und schnell auf Änderungen zu reagieren.
 Scrum: eine Methode, mit der Teams in kurzen Zeitabschnitten flexibel und effektiv an Projekten arbeiten.
+TDD (Test-Driven Development): eine Methode, bei der zuerst Tests geschrieben werden, bevor der eigentliche Code entsteht.
 HTML (HyperText Markup Language): eine Sprache, um Inhalte und Aufbau von Webseiten zu gestalten.
 UI (User Interface): was Nutzer sehen und anklicken, z. B. Knöpfe, Menüs und Bilder.
-
-
-
-
-
-
+IP-Adresse: ist eine eindeutige Nummer, die Geräte in einem Netzwerk identifiziert, ähnlich wie eine Adresse für ein Haus.
+Netzmaske: hilft dabei zu erkennen, welcher Teil einer IP-Adresse zum Netzwerk gehört und welcher zum Gerät.
+MAC-Adresse ist eine einzigartige Nummer, die jedes Gerät in einem Netzwerk identifiziert, ähnlich einer Seriennummer.
+Git ist ein Werkzeug, mit dem man Änderungen an Dateien speichern und Versionen eines Projekts verwalten kann.
+GitHub ist eine Webseite, auf der man Git-Projekte speichern, teilen und zusammen daran arbeiten kann.
+Console Commands: Konsolenbefehle sind Anweisungen, die in einer Kommandozeile oder einem Terminal eingegeben werden, um Aufgaben auf einem Computer auszuführen.
+Responsive Design: sorgt dafür, dass eine Webseite auf allen Geräten gut aussieht und funktioniert.
+CSS (Cascading Style Sheets) ist eine Sprache, mit der das Aussehen und Layout von Webseiten festgelegt wird, z. B. Farben, Schriftarten und Abstände.
+Cache ist ein Zwischenspeicher. Es geht darum, schnelleren Zugriff auf bestimmte Inhalte zu generieren.
+Authentifizierung: Identität uberprufen. der Überprüfung Ihrer Identität
+Autorisierung: was darf client benutzen. festgelegt wird, was Sie tun können, sobald Ihre Identität bestätigt ist 
+Reporting Tools: Verbindung zwischen Datenherkunft und Datenanwendung. 
 
 
 
