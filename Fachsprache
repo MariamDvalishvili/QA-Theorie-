@@ -48,4 +48,4 @@ Relationale Datenbank: eine Sammlung von Datenpunkten mit vordefinierten Beziehu
 Hash Funktion: das Hashing nur in eine Richtung funktioniert.Wenn Sie ein zufällig gewähltes Klartext-Passwort  beliebiger Länge nehmen und es durch einen Hash-Algorithmus laufen lassen, wird eine für den eingegebenen Klartext eindeutige Zeichenkette oder eine Hexadezimalzahl ausgegeben
 Password + Salt -> Hash -> fingerprint
 Salt (englisch für Salz) bezeichnet in der Kryptographie eine zufällig gewählte Zeichenfolge.  zufällige Zeichenkette, die zum Schutz vor Angriffen auf Passwörter genutzt wird
-
+db: 
