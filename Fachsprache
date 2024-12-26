@@ -1,7 +1,7 @@
 QA Engineer(Quality Assurance Engineer): Sicherstellung der Qualität von Software und Systemen.systematische Planung, Überwachung und kontinuierliche Verbesserung.
 Testing Approaches: beschreiben die Methoden und Strategien, die verwendet werden, um Software zu testen.
-Black-Box-Testing: Testet die Software ohne Kenntnis der internen Logik oder des Codes, basierend auf Anforderungen und Funktionalitäten.
-White-Box-Testing: Testet die interne Struktur, Logik und den Code einer Anwendung.
+Black-Box-Testing: Testet die Software ohne Kenntnis der internen Logik oder des Codes, basierend auf Anforderungen und Funktionalitäten.keine Code
+White-Box-Testing: Testet die interne Struktur, Logik und den Code einer Anwendung. Code testing
 Grey-Box-Testing: Eine Kombination aus Black- und White-Box-Testing, bei der der Tester teilweise Kenntnis über die interne Funktionsweise hat.
 Manual Testing: Testen ohne Automatisierung, bei dem ein Tester die Anwendung aus der Perspektive des Benutzers prüft.
 Automated Testing: Nutzung von Tools und Skripten, um Tests automatisch auszuführen und Ergebnisse zu vergleichen.
@@ -10,32 +10,41 @@ Regression Testing: Sicherstellen, dass neue Änderungen keine bestehenden Funkt
 Performance Testing: Überprüfung der Geschwindigkeit, Stabilität und Skalierbarkeit der Anwendung.
 Security Testing: Identifikation von Schwachstellen, um die Anwendung vor Angriffen zu schützen.
 Usability Testing: Beurteilung, ob die Anwendung benutzerfreundlich und intuitiv ist.
+Load testing: Leistungstest, wie funktioniert ein system. unter normaler und hohere last. 
+Accessibility Testing: Projekte menschen mit Behinderungen .
 Test Oracle: ist ein Referenzmechanismus, der die erwarteten Ergebnisse eines Tests bereitstellt, um Abweichungen von den tatsächlichen Ergebnissen zu erkennen. 
 SDLC (Software Development Life Cycle):  Phasen des Entwicklungsprozesses einer Softwarer
-Agile ist eine flexible Methode, um Teams Projekte Schritt für Schritt umzusetzen und schnell auf Änderungen zu reagieren.
+Agile: ist eine flexible Methode, um Teams Projekte Schritt für Schritt umzusetzen und schnell auf Änderungen zu reagieren.(oft aktualisierungen)
 Scrum: eine Methode, mit der Teams in kurzen Zeitabschnitten flexibel und effektiv an Projekten arbeiten.
-TDD (Test-Driven Development): eine Methode, bei der zuerst Tests geschrieben werden, bevor der eigentliche Code entsteht.
+TDD (Test-Driven Development): eine Methode, bei der zuerst Tests geschrieben werden, bevor der eigentliche Code entsteht. test-> coding->test
 HTML (HyperText Markup Language): eine Sprache, um Inhalte und Aufbau von Webseiten zu gestalten.
 UI (User Interface): was Nutzer sehen und anklicken, z. B. Knöpfe, Menüs und Bilder.
 IP-Adresse: ist eine eindeutige Nummer, die Geräte in einem Netzwerk identifiziert, ähnlich wie eine Adresse für ein Haus.
+API(Application Programming Interface):(kelner) Befehlen, Funktionen, Protokollen und Objekten, die Programmierer verwenden können, um eine Software zu erstellen oder mit einem externen System zu interagieren.
 Netzmaske: hilft dabei zu erkennen, welcher Teil einer IP-Adresse zum Netzwerk gehört und welcher zum Gerät.
 MAC-Adresse ist eine einzigartige Nummer, die jedes Gerät in einem Netzwerk identifiziert, ähnlich einer Seriennummer.
 Git ist ein Werkzeug, mit dem man Änderungen an Dateien speichern und Versionen eines Projekts verwalten kann.
 GitHub ist eine Webseite, auf der man Git-Projekte speichern, teilen und zusammen daran arbeiten kann.
 Console Commands: Konsolenbefehle sind Anweisungen, die in einer Kommandozeile oder einem Terminal eingegeben werden, um Aufgaben auf einem Computer auszuführen.
 Responsive Design: sorgt dafür, dass eine Webseite auf allen Geräten gut aussieht und funktioniert.
+Javascript erstellt :  interaktive Effekte in Webbrowsern zu erstellen z.b. Buttons, suchtaste, ...
 CSS (Cascading Style Sheets) ist eine Sprache, mit der das Aussehen und Layout von Webseiten festgelegt wird, z. B. Farben, Schriftarten und Abstände.
 Cache ist ein Zwischenspeicher. Es geht darum, schnelleren Zugriff auf bestimmte Inhalte zu generieren.
 Authentifizierung: Identität uberprufen. der Überprüfung Ihrer Identität
 Autorisierung: was darf client benutzen. festgelegt wird, was Sie tun können, sobald Ihre Identität bestätigt ist 
 Reporting Tools: Verbindung zwischen Datenherkunft und Datenanwendung. 
+CI(Continuous Integration): Codeerstellung
+CD(Continuous Deployment): server. Vorbereitung des Codes für die Veröffentlichung (Build/Test)
+                           Der Zweck von CI/CD besteht darin, Entwicklungsteams die Möglichkeit zu geben, Codeänderungen häufiger und zuverlässiger durchzuführen.
+dev tools: Browser integriert werkzeug. helden Web seite zu testen und debuggen.
+Backend Automation: automatisierte Tests und Prozessen in Hintergrundsystem (Intehrations Test, API). server
+Karate-Framework- API
 
-
-
-
-
-
-
+Frontend Automation:  Client , User-Experience ganzheitlich beeinflussen und Websites optimieren. Benutzeroberfläche (UI) getestet .
+Mobile Automation: Apps, programen für Handys 
+JIRA : ein Tool, Projekte,Aufhaben verwalten
+SQL Introduction: eine Standardsprache für die Erstellung und Bearbeitung von Datenbanken. Tabellen mit Zeillen und Spalten Strukturiert. 
+Relationale Datenbank: eine Sammlung von Datenpunkten mit vordefinierten Beziehungen. Beim relationalen Modell werden Daten in Tabellen organisiert. 
 
 
 
