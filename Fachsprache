@@ -1,1 +1,29 @@
+QA Engineer(Quality Assurance Engineer): Sicherstellung der Qualität von Software und Systemen.systematische Planung, Überwachung und kontinuierliche Verbesserung.
+Testing Approaches: beschreiben die Methoden und Strategien, die verwendet werden, um Software zu testen.
+Black-Box-Testing: Testet die Software ohne Kenntnis der internen Logik oder des Codes, basierend auf Anforderungen und Funktionalitäten.
+White-Box-Testing: Testet die interne Struktur, Logik und den Code einer Anwendung.
+Grey-Box-Testing: Eine Kombination aus Black- und White-Box-Testing, bei der der Tester teilweise Kenntnis über die interne Funktionsweise hat.
+Manual Testing: Testen ohne Automatisierung, bei dem ein Tester die Anwendung aus der Perspektive des Benutzers prüft.
+Automated Testing: Nutzung von Tools und Skripten, um Tests automatisch auszuführen und Ergebnisse zu vergleichen.
+Exploratory Testing: Ad-hoc-Testen ohne vordefinierte Testfälle, wobei der Tester die Anwendung dynamisch erkundet.
+Regression Testing: Sicherstellen, dass neue Änderungen keine bestehenden Funktionen beeinträchtigen.
+Performance Testing: Überprüfung der Geschwindigkeit, Stabilität und Skalierbarkeit der Anwendung.
+Security Testing: Identifikation von Schwachstellen, um die Anwendung vor Angriffen zu schützen.
+Usability Testing: Beurteilung, ob die Anwendung benutzerfreundlich und intuitiv ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
