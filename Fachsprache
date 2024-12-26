@@ -10,7 +10,7 @@ Regression Testing: Sicherstellen, dass neue Änderungen keine bestehenden Funkt
 Performance Testing: Überprüfung der Geschwindigkeit, Stabilität und Skalierbarkeit der Anwendung.
 Security Testing: Identifikation von Schwachstellen, um die Anwendung vor Angriffen zu schützen.
 Usability Testing: Beurteilung, ob die Anwendung benutzerfreundlich und intuitiv ist.
-Load testing: Leistungstest, wie funktioniert ein system. unter normaler und hohere last. 
+Load testing: Leistungstest, wie funktioniert ein system. unter normaler und hohere last.
 Accessibility Testing: Projekte menschen mit Behinderungen .
 Test Oracle: ist ein Referenzmechanismus, der die erwarteten Ergebnisse eines Tests bereitstellt, um Abweichungen von den tatsächlichen Ergebnissen zu erkennen. 
 SDLC (Software Development Life Cycle):  Phasen des Entwicklungsprozesses einer Softwarer
@@ -45,6 +45,7 @@ Mobile Automation: Apps, programen für Handys
 JIRA : ein Tool, Projekte,Aufhaben verwalten
 SQL Introduction: eine Standardsprache für die Erstellung und Bearbeitung von Datenbanken. Tabellen mit Zeillen und Spalten Strukturiert. 
 Relationale Datenbank: eine Sammlung von Datenpunkten mit vordefinierten Beziehungen. Beim relationalen Modell werden Daten in Tabellen organisiert. 
-
-
+Hash Funktion: das Hashing nur in eine Richtung funktioniert.Wenn Sie ein zufällig gewähltes Klartext-Passwort  beliebiger Länge nehmen und es durch einen Hash-Algorithmus laufen lassen, wird eine für den eingegebenen Klartext eindeutige Zeichenkette oder eine Hexadezimalzahl ausgegeben
+Password + Salt -> Hash -> fingerprint
+Salt (englisch für Salz) bezeichnet in der Kryptographie eine zufällig gewählte Zeichenfolge.  zufällige Zeichenkette, die zum Schutz vor Angriffen auf Passwörter genutzt wird
 
